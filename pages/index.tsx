@@ -252,7 +252,7 @@ const Home: NextPage = () => {
           <div className="lg:w-10/12 w-full">
             <p className="font-normal text-sm leading-3 text-blue-700 hover:text-blue-800 cursor-pointer">About</p>
             <h2 className="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">We are here to raise funds to help Ukraine</h2>
-            <p className="font-normal text-base leading-6 text-gray-600 mt-6">The war has been devastating for Ukrainians. Krainerous offers you to take part in helping Ukraine's families by minting NFTs. After you mint your NFTs, 
+            <p className="font-normal text-base leading-6 text-gray-600 mt-6">The war has been devastating for Ukrainians. Krainerous offers you to take part in helping Ukrainian families by minting NFTs. After you mint your NFTs, 
 you will get your NFTs randomly. All of the earnings will be donated to Ukrainian people by using Unchain Ukraine. 
 The funds will go a long way to support them as they fight for their freedom.</p>
           </div>
@@ -267,7 +267,7 @@ The funds will go a long way to support them as they fight for their freedom.</p
                 <p className="font-normal text-base leading-6 text-gray-600 mt-4">While helping Ukrainians, you can also build up your exquisite NFTs collection... but there is a challenge for that to happen. Here in Krainerous, you will get your
 NFTs randomly, means that you will get the common ones or the most valuable NFTs. Krainerous partners with various artists all around the world who are willing 
 to support Ukrainians people by selling their arts.</p>
-                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Show them that they're not alone in this!</p>
+                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Show them that they are not alone in this!</p>
             </div>
             <div className="lg:flex items-center w-full lg:w-1/2 ">
                 <img className="lg:block hidden w-full" src="https://i.ibb.co/60b3ThS/Group-3.webp" alt="people discussing on board" />
